@@ -1,0 +1,22 @@
+.themeContainer {
+    margin: 0 auto;
+    min-width: 600px;
+    min-height: 400px;
+    color: #000;
+    background-color: #dcdcdc;
+}
+
+.dark {
+    color: #fff;
+    background-color: #3c3c3c;
+}
+
+form {
+    border: 1px solid black;
+    padding: 1.5em;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    background-color: #868686;
+    color: #fff
+}
